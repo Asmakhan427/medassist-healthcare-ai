@@ -1,0 +1,30 @@
+{
+  "_comment": "Predicted disease label -> specialization. Every value here must be one of the specializations seeded in packages/backend/sql/schema.sql, or resolveDoctorId() in python.service.ts falls back to 'General Physician'. Keep in sync with ai.controller.ts's KEYWORD_DOCTOR_MAP, which covers the same specializations for the pre-prediction /ai/doctor/:diagnosis keyword lookup.",
+
+  "Acne": "Dermatologist",
+  "Arthritis": "Rheumatologist",
+  "Bronchial Asthma": "Pulmonologist",
+  "Cervical spondylosis": "Rheumatologist",
+  "Chicken pox": "Infectious Disease Specialist",
+  "Common Cold": "General Physician",
+  "Dengue": "Infectious Disease Specialist",
+  "Dimorphic Hemorrhoids": "Gastroenterologist",
+  "Fungal infection": "Dermatologist",
+  "Hypertension": "Cardiologist",
+  "Impetigo": "Dermatologist",
+  "Jaundice": "Gastroenterologist",
+  "Malaria": "Infectious Disease Specialist",
+  "Migraine": "Neurologist",
+  "Pneumonia": "Pulmonologist",
+  "Psoriasis": "Dermatologist",
+  "Typhoid": "Infectious Disease Specialist",
+  "Varicose Veins": "Cardiologist",
+  "allergy": "General Physician",
+  "diabetes": "General Physician",
+  "drug reaction": "Dermatologist",
+  "gastroesophageal reflux disease": "Gastroenterologist",
+  "peptic ulcer disease": "Gastroenterologist",
+  "urinary tract infection": "Urologist",
+
+  "Oral Ulcer (Canker Sore)": "General Physician"
+}
