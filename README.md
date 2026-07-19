@@ -7,7 +7,7 @@ Full-stack intelligent medical assistant application.
 
 <img width="1883" height="865" alt="Dashboard" src="https://github.com/user-attachments/assets/c634ef8c-a7e5-4611-83d5-ef27649ec995" />
 
-*Dashboard with dark theme showing patient statistics, quick actions, and recent activity.*
+*Dark theme dashboard with patient statistics, quick actions, and recent activity overview.*
 
 ---
 
