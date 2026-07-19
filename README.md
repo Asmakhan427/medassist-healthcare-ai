@@ -2,6 +2,21 @@
 
 Full-stack intelligent medical assistant application.
 
+**Output**
+Dashboard:
+<img width="1883" height="865" alt="image" src="https://github.com/user-attachments/assets/c634ef8c-a7e5-4611-83d5-ef27649ec995" />
+System Checker:
+<img width="1874" height="878" alt="image" src="https://github.com/user-attachments/assets/f63050c0-fe77-4709-96b0-2c7d2f6fbaf9" />
+Medical History:
+<img width="1886" height="810" alt="image" src="https://github.com/user-attachments/assets/04c1064d-81ae-4876-adcf-e759c772d570" />
+Appointments:
+<img width="1914" height="866" alt="image" src="https://github.com/user-attachments/assets/0ccc0dcb-0d16-4036-8fd8-15e1a65bc954" />
+Education:
+<img width="1886" height="870" alt="image" src="https://github.com/user-attachments/assets/c3a9326e-d0d8-4890-845a-ebd835be0361" />
+Feedback:
+<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/fef13ddc-0c77-4fed-91a4-ae053b00f68e" />
+
+
 **Stack**
 
 - Frontend: React 18 + TypeScript + Tailwind CSS (Vite)
@@ -193,8 +208,4 @@ Docker Compose reads variables from your root `.env` file automatically (place i
 
 This application provides AI-assisted preliminary symptom analysis only and is **not** a substitute for professional medical diagnosis. Any critical/emergency detection routes users to call the local emergency number configured via `EMERGENCY_NUMBER` in `.env` (default: `1122`).
 
----
 
-## License
-
-MIT
