@@ -223,24 +223,6 @@ Once running:
 - Redis → localhost:6379
 
 Docker Compose reads variables from your root `.env` file automatically (place it next to `docker-compose.yml`).
-
----
-
-## Available Scripts (root)
-
-| Script                 | Description                                      |
-| ---------------------- | ------------------------------------------------ |
-| `npm run dev`          | Run backend + frontend concurrently (dev mode)   |
-| `npm run dev:backend`  | Run backend only (nodemon + ts-node)             |
-| `npm run dev:frontend` | Run frontend only (Vite dev server)              |
-| `npm run build`        | Build backend + frontend for production          |
-| `npm start`            | Start the compiled backend in production         |
-| `npm test`             | Run backend + frontend test suites               |
-| `npm run lint`         | Lint backend + frontend source                   |
-| `npm run clean`        | Remove all `node_modules` and `dist` directories |
-| `npm run docker:up`    | `docker-compose up --build`                      |
-| `npm run docker:down`  | `docker-compose down`                            |
-
 ---
 
 ## Health & Emergency Notice
