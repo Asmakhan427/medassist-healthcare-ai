@@ -14,7 +14,8 @@ Full-stack intelligent medical assistant application.
 ## 🤖 Symptom Checker
 *AI-powered diagnostic tool that analyzes patient symptoms and provides intelligent health predictions with confidence scores.*
 
-<img width="1874" height="878" alt="Symptom Checker" src="https://github.com/user-attachments/assets/f63050c0-fe77-4709-96b0-2c7d2f6fbaf9" />
+<img width="1875" height="851" alt="image" src="https://github.com/user-attachments/assets/34df9f5b-1018-4ab5-89cb-f9106d8af797" />
+
 
 *Bright theme interface for symptom input with AI diagnosis results and doctor recommendations.*
 
@@ -23,7 +24,8 @@ Full-stack intelligent medical assistant application.
 ## 📋 Medical History
 *Complete patient health records including AI diagnosis reports, doctor consultations, prescriptions, and treatment history.*
 
-<img width="1886" height="810" alt="Medical History" src="https://github.com/user-attachments/assets/04c1064d-81ae-4876-adcf-e759c772d570" />
+<img width="1882" height="847" alt="image" src="https://github.com/user-attachments/assets/fbc501ed-9681-4d69-9487-ba9fd25fc225" />
+
 
 *View and manage all medical records, AI reports, and consultation history in one place.*
 
