@@ -1,20 +1,46 @@
 # MedAssist AI
 
 Full-stack intelligent medical assistant application.
-
 **Output**
-<img width="1883" height="865" alt="image" src="https://github.com/user-attachments/assets/c634ef8c-a7e5-4611-83d5-ef27649ec995" 
-  Dashboard
-<img width="1874" height="878" alt="image" src="https://github.com/user-attachments/assets/f63050c0-fe77-4709-96b0-2c7d2f6fbaf9" />
-System Checker
-<img width="1886" height="810" alt="image" src="https://github.com/user-attachments/assets/04c1064d-81ae-4876-adcf-e759c772d570" />
-Medical History
-<img width="1914" height="866" alt="image" src="https://github.com/user-attachments/assets/0ccc0dcb-0d16-4036-8fd8-15e1a65bc954" />
-Appointments
-<img width="1886" height="870" alt="image" src="https://github.com/user-attachments/assets/c3a9326e-d0d8-4890-845a-ebd835be0361" />
-Education
-<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/fef13ddc-0c77-4fed-91a4-ae053b00f68e" />
-Feedback
+## 📊 Dashboard
+*Central command center for patients to monitor health activities, view recent reports, upcoming appointments, and quick access to symptom checker.*
+
+<img width="1883" height="865" alt="Dashboard" src="https://github.com/user-attachments/assets/c634ef8c-a7e5-4611-83d5-ef27649ec995" />
+
+---
+
+## 🤖 Symptom Checker
+*AI-powered diagnostic tool that analyzes patient symptoms and provides intelligent health predictions with confidence scores.*
+
+<img width="1874" height="878" alt="Symptom Checker" src="https://github.com/user-attachments/assets/f63050c0-fe77-4709-96b0-2c7d2f6fbaf9" />
+
+---
+
+## 📋 Medical History
+*Complete patient health records including AI diagnosis reports, doctor consultations, prescriptions, and treatment history.*
+
+<img width="1886" height="810" alt="Medical History" src="https://github.com/user-attachments/assets/04c1064d-81ae-4876-adcf-e759c772d570" />
+
+---
+
+## 📅 Appointments
+*Seamless appointment booking system with doctor availability, scheduling, and real-time confirmation notifications.*
+
+<img width="1914" height="866" alt="Appointments" src="https://github.com/user-attachments/assets/0ccc0dcb-0d16-4036-8fd8-15e1a65bc954" />
+
+---
+
+## 📚 Health Education
+*Comprehensive health information library with articles, precautions, and wellness tips for patients.*
+
+<img width="1886" height="870" alt="Health Education" src="https://github.com/user-attachments/assets/c3a9326e-d0d8-4890-845a-ebd835be0361" />
+
+---
+
+## ⭐ Feedback
+*Patient feedback system with star ratings, comments, and experience sharing to improve healthcare services.*
+
+<img width="1918" height="862" alt="Feedback" src="https://github.com/user-attachments/assets/fef13ddc-0c77-4fed-91a4-ae053b00f68e" />
 
 **Stack**
 
