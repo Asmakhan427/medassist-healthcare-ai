@@ -1,7 +1,7 @@
 # MedAssist AI
 
 Full-stack intelligent medical assistant application.
-**Output**
+
 ## 📊 Dashboard
 *Central command center for patients to monitor health activities, view recent reports, upcoming appointments, and quick access to symptom checker.*
 
